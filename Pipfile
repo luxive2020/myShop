@@ -11,6 +11,7 @@ flower = "*"
 braintree = "==3.59.0"
 weasyprint = "==51"
 reportlab = "*"
+gunicorn = "==19.9.0"
 
 [dev-packages]
 autopep8 = "*"

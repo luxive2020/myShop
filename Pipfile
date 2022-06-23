@@ -12,6 +12,7 @@ braintree = "==3.59.0"
 weasyprint = "==51"
 reportlab = "*"
 gunicorn = "==19.9.0"
+django-heroku = "*"
 
 [dev-packages]
 autopep8 = "*"

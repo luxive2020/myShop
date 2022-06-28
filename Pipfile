@@ -13,6 +13,10 @@ weasyprint = "==51"
 reportlab = "*"
 gunicorn = "==19.9.0"
 django-heroku = "*"
+django-allauth = "*"
+dj-database-url = "*"
+whitenoise = "*"
+psycopg2 = "*"
 
 [dev-packages]
 autopep8 = "*"
